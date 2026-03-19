@@ -14,4 +14,4 @@
 
 ## OUTCOME
 
-![alt text](concession.png)
+![alt text](concession.jpg)
